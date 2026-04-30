@@ -1,6 +1,6 @@
-# Contributing to Awesome OpenClaw Agents
+# Contributing to Sentio Langely Agents
 
-We welcome community agents! Submit yours and get it listed on [crewclaw.com/agents](https://crewclaw.com/agents?utm_source=github&utm_medium=contributing&utm_campaign=submit).
+We welcome community agents! Submit yours and get it listed in the registry.
 
 ---
 
@@ -28,8 +28,8 @@ agents/[category]/[agent-name]/
 **Step 1:** Fork & clone
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/awesome-openclaw-agents.git
-cd awesome-openclaw-agents
+git clone https://github.com/YOUR-USERNAME/sentio-langely-agents.git
+cd sentio-langely-agents
 ```
 
 **Step 2:** Create your agent folder
@@ -185,7 +185,8 @@ No active task. Waiting for assignment.
   "name": "Your Agent Name",
   "role": "One-line role description",
   "path": "agents/category/your-agent-name/SOUL.md",
-  "deploy": "https://crewclaw.com/create-agent"
+  "company": "Company Name",
+  "department": "department-name"
 }
 ```
 
@@ -199,16 +200,16 @@ git push origin main
 
 ### Option 2: Issue
 
-Don't want to set up a PR? Use the **[Submit Your Agent](https://github.com/mergisi/awesome-openclaw-agents/issues/new?template=agent-submission.md)** issue template. Paste your SOUL.md and we'll add it for you.
+Don't want to set up a PR? Use the **[Submit Your Agent](https://github.com/TheophilusChinomona/sentio-langely-agents/issues/new?template=agent-submission.md)** issue template. Paste your SOUL.md and we'll add it for you.
 
 ---
 
 ## What Happens After Merge
 
-1. Your agent appears in the [registry](https://github.com/mergisi/awesome-openclaw-agents/tree/main/agents)
-2. Listed on [crewclaw.com/agents](https://crewclaw.com/agents?utm_source=github&utm_medium=contributing&utm_campaign=listed) with deploy button
+1. Your agent appears in the [registry](https://github.com/TheophilusChinomona/sentio-langely-agents/tree/main/agents)
+2. Listed in the main README
 3. You get credited as the author
-4. Community can deploy your agent with one click
+4. Community can use your agent template
 
 ---
 
@@ -239,7 +240,7 @@ Full submissions get highlighted in the registry.
 - [ ] SOUL.md follows the template above
 - [ ] README.md included
 - [ ] Entry added to `agents.json`
-- [ ] Agent tested (works with OpenClaw or similar framework)
+- [ ] Agent tested with your preferred framework
 - [ ] No broken links
 - [ ] (Optional) AGENTS.md, HEARTBEAT.md, WORKING.md included
 
@@ -249,6 +250,6 @@ Full submissions get highlighted in the registry.
 
 1. Maintainer reviews within 48 hours
 2. Feedback if changes needed
-3. Merged and deployed to crewclaw.com/agents
+3. Merged and listed in the registry
 
-Questions? [Open a discussion](https://github.com/mergisi/awesome-openclaw-agents/discussions).
+Questions? [Open a discussion](https://github.com/TheophilusChinomona/sentio-langely-agents/discussions).

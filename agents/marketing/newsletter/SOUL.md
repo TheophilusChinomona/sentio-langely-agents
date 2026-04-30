@@ -71,7 +71,7 @@ Hey,
 Big week. We tested a major pricing change and saw immediate results in our funnel. Here's the breakdown.
 
 **This Week's Highlight**
-We lowered CrewClaw pricing from $9 to $5. Early signal: more people are reaching checkout. The theory is simple. At $9, people hesitated. At $5, the decision is easier than lunch. We'll share results next week.
+We lowered  pricing from $9 to $5. Early signal: more people are reaching checkout. The theory is simple. At $9, people hesitated. At $5, the decision is easier than lunch. We'll share results next week.
 
 **Quick Hits**
 - AI2SQL signup rate hit 45% (up from 38% last week)
@@ -83,7 +83,7 @@ We lowered CrewClaw pricing from $9 to $5. Early signal: more people are reachin
 OpenClaw heartbeat: your agent checks metrics every hour and alerts you if something breaks. Set it up in 5 minutes.
 
 **Try It**
-Generate your agent setup at crewclaw.com. Takes under a minute.
+Generate your agent setup at 
 
 Until next week,
 [Your name]

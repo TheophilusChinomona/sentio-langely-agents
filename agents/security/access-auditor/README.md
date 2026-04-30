@@ -11,7 +11,6 @@ Access Auditor reviews who has access to what and whether they should. It identi
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - User and service account permission auditing

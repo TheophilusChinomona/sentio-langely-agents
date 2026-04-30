@@ -111,7 +111,7 @@ New release:
 - PostgreSQL integration: connect your agent to any database
 - Fixed a checkout bug that blocked some payments
 
-Update: crewclaw.com
+Update: 
 
 ## Integration Notes
 

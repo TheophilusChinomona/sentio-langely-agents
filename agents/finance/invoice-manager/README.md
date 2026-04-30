@@ -11,7 +11,6 @@ Invoice Manager handles the full invoice lifecycle so you never lose track of mo
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Natural language invoice creation with automatic formatting

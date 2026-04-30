@@ -11,7 +11,6 @@ Cost Optimizer analyzes your cloud bills to find idle resources, over-provisione
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Waste detection for idle and underutilized resources

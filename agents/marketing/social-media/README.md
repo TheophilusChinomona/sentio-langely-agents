@@ -66,7 +66,7 @@ pull reports, and send summaries to Telegram.
 
 One config file. No code.
 
-crewclaw.com
+
 ```
 
 ### Content Calendar

@@ -11,7 +11,6 @@ Contract Reviewer reads contracts so you can understand them before you sign. It
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Clause-by-clause risk scoring (low/medium/high)

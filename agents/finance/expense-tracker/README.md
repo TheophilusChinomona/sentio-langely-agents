@@ -11,7 +11,6 @@ Expense Tracker takes the tedium out of money management. Tell it what you spent
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Intelligent expense categorization from natural language input

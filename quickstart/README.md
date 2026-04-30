@@ -74,7 +74,6 @@ docker-compose up -d
 
 ## Next Steps
 
-- Browse [50+ agent templates](../agents/) for different roles
+- Browse [200+ agent templates](../agents/) for different roles
 - Customize your SOUL.md to fit your needs
-- Deploy to production with [CrewClaw](https://crewclaw.com/create-agent) ($9 one-time)
 - Add heartbeats, integrations, and multi-agent setups

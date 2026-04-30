@@ -11,7 +11,6 @@ Recruiter streamlines the hiring process from application to offer. It screens r
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Automated resume screening with weighted scoring criteria

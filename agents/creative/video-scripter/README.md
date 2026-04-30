@@ -11,7 +11,6 @@ Video Scripter writes compelling video scripts for YouTube, TikTok, Instagram, p
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Hook-first script writing that captures attention in 3 seconds

@@ -11,7 +11,6 @@ Compliance Checker helps organizations navigate regulatory frameworks like SOC 2
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Multi-framework compliance tracking (SOC 2, GDPR, HIPAA, PCI-DSS)

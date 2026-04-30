@@ -80,7 +80,7 @@ Your AI agent can now query your database, pull reports, and send summaries to T
 
 One config file. No code.
 
-crewclaw.com
+
 
 Option B:
 New: connect your AI agent directly to PostgreSQL.

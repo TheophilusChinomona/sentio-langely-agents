@@ -76,7 +76,7 @@ QUICK HITS:
 
 TOOL: OpenClaw heartbeat for hourly alerts.
 
-TRY IT: crewclaw.com
+TRY IT: 
 ```
 
 ### Performance

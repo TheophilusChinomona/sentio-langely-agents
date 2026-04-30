@@ -11,7 +11,6 @@ Policy Writer drafts internal policies, terms of service, privacy policies, and 
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Internal policy drafting (AUP, data handling, security, remote work)

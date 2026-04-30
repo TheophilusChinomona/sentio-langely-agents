@@ -1,14 +1,12 @@
 # Agent Templates
 
-177 production-ready `SOUL.md` templates across 24 categories.
+204 production-ready `SOUL.md` templates across 24 categories.
 
 ## Quick Start
 
 ```bash
 # Copy any SOUL.md to your agent
-cp agents/productivity/orion/SOUL.md ~/my-agent/agents/orion/SOUL.md
-openclaw agents add --agent orion
-openclaw start
+cp agents/productivity/orion/SOUL.md ~/my-agent/SOUL.md
 ```
 
 ## Categories
@@ -40,18 +38,18 @@ openclaw start
 | Supply Chain | 3 | [Browse](supply-chain/) |
 | Voice | 3 | [Browse](voice/) |
 
-## Skip the setup. Deploy in 60 seconds.
+---
 
-**[Browse all 177 templates with one-click deploy](https://crewclaw.com/agents?utm_source=github&utm_medium=agents_readme&utm_campaign=browse)**
+## Browse All Templates
 
-Pick a template, customize it, and get a full deploy package (SOUL.md + Dockerfile + bot scripts + setup guide) in 60 seconds. No terminal required.
+Explore all **[204 agent templates](../agents/)** organized by company and category.
 
-**[Get your deploy package →](https://crewclaw.com/create-agent?utm_source=github&utm_medium=agents_readme&utm_campaign=deploy)**
+Each template includes a complete SOUL.md configuration file ready to use with any agent framework.
 
 ---
 
 ## Built your own agent?
 
-Submit it to the registry. Your agent gets listed here and on [crewclaw.com/agents](https://crewclaw.com/agents?utm_source=github&utm_medium=agents_readme&utm_campaign=submit).
+Submit it to the registry. Your agent gets listed here and in the main README.
 
-**[Submit via PR →](../CONTRIBUTING.md)** · **[Submit via Issue →](https://github.com/mergisi/awesome-openclaw-agents/issues/new?template=agent-submission.md)**
+**[Submit via PR →](../CONTRIBUTING.md)** · **[Submit via Issue →](https://github.com/TheophilusChinomona/sentio-langely-agents/issues/new?template=agent-submission.md)**

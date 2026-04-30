@@ -48,4 +48,4 @@ openclaw gateway start
 
 ## Deploy
 
-[Deploy with CrewClaw →](https://crewclaw.com/create-agent?integrations=moltbook)
+[](?integrations=moltbook)

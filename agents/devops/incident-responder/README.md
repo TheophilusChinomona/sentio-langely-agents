@@ -11,7 +11,6 @@ Incident Responder brings structure to production outages. It monitors alerts, c
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Automatic incident severity classification (SEV1-SEV4)

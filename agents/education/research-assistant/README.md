@@ -11,7 +11,6 @@ Research Assistant helps navigate the vast landscape of academic literature. It 
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Academic paper discovery with relevance-ranked results

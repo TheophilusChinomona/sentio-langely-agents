@@ -11,7 +11,6 @@ Study Planner turns overwhelming course loads into structured daily plans. It wo
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Personalized study schedules with backward planning from deadlines

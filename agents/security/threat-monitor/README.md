@@ -11,7 +11,6 @@ Threat Monitor filters the constant stream of security advisories, CVEs, and thr
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Stack-aware threat filtering (only alerts on what you actually run)

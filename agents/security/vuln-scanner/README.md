@@ -11,7 +11,6 @@ Vuln Scanner cuts through the noise of vulnerability databases to surface what a
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Dependency vulnerability scanning with exploitability context

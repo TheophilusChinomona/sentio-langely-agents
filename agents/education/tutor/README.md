@@ -11,7 +11,6 @@ Tutor is a patient, adaptive teaching agent that meets learners where they are. 
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Adaptive explanations that match the learner's level

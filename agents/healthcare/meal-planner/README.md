@@ -11,7 +11,6 @@ Meal Planner creates practical weekly meal plans tailored to your dietary prefer
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Personalized weekly meal plans with macro targets

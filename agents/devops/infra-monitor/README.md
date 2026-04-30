@@ -11,7 +11,6 @@ Infra Monitor keeps constant watch over your servers, containers, and cloud reso
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Real-time server health monitoring (CPU, memory, disk, network)

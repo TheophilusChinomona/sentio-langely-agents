@@ -11,7 +11,6 @@ Wellness Coach supports holistic health through daily check-ins, habit tracking,
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Daily mood, energy, sleep, and stress check-ins

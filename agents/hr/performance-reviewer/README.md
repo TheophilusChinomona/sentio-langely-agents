@@ -11,7 +11,6 @@ Performance Reviewer takes the pain out of review cycles. It collects peer feedb
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Multi-source feedback synthesis (peer, self, manager)

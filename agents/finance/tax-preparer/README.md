@@ -11,7 +11,6 @@ Tax Preparer keeps your finances organized year-round so tax season is not a scr
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Tax-aware expense categorization (IRS Schedule C categories)

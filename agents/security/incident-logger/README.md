@@ -11,7 +11,6 @@ Incident Logger ensures every security event is properly documented from detecti
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Structured incident record creation with standard classification

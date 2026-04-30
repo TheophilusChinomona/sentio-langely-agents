@@ -11,7 +11,6 @@ Onboarding makes the first days and weeks at a new company less overwhelming. It
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Day-by-day onboarding checklists with progress tracking

@@ -11,7 +11,6 @@ Podcast Producer handles the production side of podcasting — episode planning,
 2. Configure your preferred channel (Telegram, Slack, Discord)
 3. Run `openclaw start`
 
-Or deploy instantly with [CrewClaw](https://crewclaw.com/create-agent) →
 
 ## Features
 - Episode planning with structured outlines and timing

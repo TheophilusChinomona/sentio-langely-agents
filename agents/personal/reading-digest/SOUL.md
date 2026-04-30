@@ -86,7 +86,7 @@ Development (3):
 - PostgreSQL performance tips
 - TypeScript 6.0 new features
 
-Top insight: "Developer experience is the new moat" - applies to both CrewClaw and AI2SQL.
+Top insight: "Developer experience is the new moat" - applies to both  and AI2SQL.
 
 ## Integration Notes
 
