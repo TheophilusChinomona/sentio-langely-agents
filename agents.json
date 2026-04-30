@@ -1,5 +1,5 @@
 {
-  "total": 199,
+  "total": 204,
   "agents": [
     {
       "id": "churn-predictor",
@@ -7,6 +7,8 @@
       "name": "churn-predictor",
       "role": "",
       "path": "agents/business/churn-predictor/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "competitor-pricing",
@@ -14,6 +16,8 @@
       "name": "Competitor Pricing",
       "role": "Competitive Pricing Intelligence Agent",
       "path": "agents/business/competitor-pricing/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "customer-support",
@@ -21,6 +25,8 @@
       "name": "customer-support",
       "role": "",
       "path": "agents/business/customer-support/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "invoice-tracker",
@@ -28,6 +34,8 @@
       "name": "invoice-tracker",
       "role": "",
       "path": "agents/business/invoice-tracker/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "meeting-scheduler",
@@ -35,6 +43,8 @@
       "name": "Meeting Scheduler",
       "role": "Intelligent Meeting Coordination Agent",
       "path": "agents/business/meeting-scheduler/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "personal-crm",
@@ -42,6 +52,8 @@
       "name": "personal-crm",
       "role": "",
       "path": "agents/business/personal-crm/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "radar",
@@ -49,6 +61,8 @@
       "name": "radar",
       "role": "",
       "path": "agents/business/radar/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "sales-assistant",
@@ -56,6 +70,8 @@
       "name": "sales-assistant",
       "role": "",
       "path": "agents/business/sales-assistant/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "whatsapp-business",
@@ -63,6 +79,8 @@
       "name": "Your Business Name",
       "role": "",
       "path": "agents/business/whatsapp-business/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "brand-designer",
@@ -70,6 +88,8 @@
       "name": "brand-designer",
       "role": "",
       "path": "agents/creative/brand-designer/SOUL.md",
+      "company": "MarketGrow",
+      "department": "creative"
     },
     {
       "id": "copywriter",
@@ -77,6 +97,8 @@
       "name": "Copywriter",
       "role": "Conversion-Focused Copywriting Agent",
       "path": "agents/creative/copywriter/SOUL.md",
+      "company": "MarketGrow",
+      "department": "creative"
     },
     {
       "id": "podcast-producer",
@@ -84,6 +106,8 @@
       "name": "podcast-producer",
       "role": "",
       "path": "agents/creative/podcast-producer/SOUL.md",
+      "company": "MarketGrow",
+      "department": "creative"
     },
     {
       "id": "thumbnail-designer",
@@ -91,6 +115,8 @@
       "name": "Thumbnail Designer",
       "role": "Visual Thumbnail and Banner Design Agent",
       "path": "agents/creative/thumbnail-designer/SOUL.md",
+      "company": "MarketGrow",
+      "department": "creative"
     },
     {
       "id": "ux-researcher",
@@ -98,6 +124,8 @@
       "name": "ux-researcher",
       "role": "",
       "path": "agents/creative/ux-researcher/SOUL.md",
+      "company": "MarketGrow",
+      "department": "creative"
     },
     {
       "id": "video-scripter",
@@ -105,6 +133,8 @@
       "name": "video-scripter",
       "role": "",
       "path": "agents/creative/video-scripter/SOUL.md",
+      "company": "MarketGrow",
+      "department": "creative"
     },
     {
       "id": "dashboard-builder",
@@ -112,6 +142,8 @@
       "name": "Dashboard Builder",
       "role": "Analytics Dashboard Design Agent",
       "path": "agents/data/dashboard-builder/SOUL.md",
+      "company": "TechCorp",
+      "department": "data"
     },
     {
       "id": "data-cleaner",
@@ -119,6 +151,8 @@
       "name": "Data Cleaner",
       "role": "Data Quality and Cleaning Agent",
       "path": "agents/data/data-cleaner/SOUL.md",
+      "company": "TechCorp",
+      "department": "data"
     },
     {
       "id": "etl-pipeline",
@@ -126,6 +160,8 @@
       "name": "ETL Pipeline",
       "role": "Data Pipeline Orchestration Agent",
       "path": "agents/data/etl-pipeline/SOUL.md",
+      "company": "TechCorp",
+      "department": "data"
     },
     {
       "id": "report-generator",
@@ -133,6 +169,8 @@
       "name": "Report Generator",
       "role": "Automated Business Report Agent",
       "path": "agents/data/report-generator/SOUL.md",
+      "company": "TechCorp",
+      "department": "data"
     },
     {
       "id": "sql-assistant",
@@ -140,6 +178,8 @@
       "name": "SQL Assistant",
       "role": "SQL Query Builder and Optimizer Agent",
       "path": "agents/data/sql-assistant/SOUL.md",
+      "company": "TechCorp",
+      "department": "data"
     },
     {
       "id": "api-tester",
@@ -147,6 +187,8 @@
       "name": "api-tester",
       "role": "",
       "path": "agents/development/api-tester/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "bug-hunter",
@@ -154,6 +196,8 @@
       "name": "bug-hunter",
       "role": "",
       "path": "agents/development/bug-hunter/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "changelog",
@@ -161,6 +205,8 @@
       "name": "changelog",
       "role": "",
       "path": "agents/development/changelog/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "code-reviewer",
@@ -168,6 +214,8 @@
       "name": "code-reviewer",
       "role": "",
       "path": "agents/development/code-reviewer/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "dependency-scanner",
@@ -175,6 +223,8 @@
       "name": "backend",
       "role": "",
       "path": "agents/development/dependency-scanner/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "docs-writer",
@@ -182,6 +232,8 @@
       "name": "docs-writer",
       "role": "",
       "path": "agents/development/docs-writer/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "migration-helper",
@@ -189,6 +241,8 @@
       "name": "Migration Helper",
       "role": "Database and Framework Migration Agent",
       "path": "agents/development/migration-helper/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "pr-merger",
@@ -196,6 +250,8 @@
       "name": "PR Merger",
       "role": "Pull Request Management Agent",
       "path": "agents/development/pr-merger/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "test-writer",
@@ -203,6 +259,8 @@
       "name": "Test Writer",
       "role": "Automated Test Generation Agent",
       "path": "agents/development/test-writer/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "cost-optimizer",
@@ -210,6 +268,8 @@
       "name": "cost-optimizer",
       "role": "",
       "path": "agents/devops/cost-optimizer/SOUL.md",
+      "company": "TechCorp",
+      "department": "infrastructure"
     },
     {
       "id": "deploy-guardian",
@@ -217,6 +277,8 @@
       "name": "deploy-guardian",
       "role": "",
       "path": "agents/devops/deploy-guardian/SOUL.md",
+      "company": "TechCorp",
+      "department": "infrastructure"
     },
     {
       "id": "incident-responder",
@@ -224,6 +286,8 @@
       "name": "incident-responder",
       "role": "",
       "path": "agents/devops/incident-responder/SOUL.md",
+      "company": "TechCorp",
+      "department": "infrastructure"
     },
     {
       "id": "infra-monitor",
@@ -231,6 +295,8 @@
       "name": "infra-monitor",
       "role": "",
       "path": "agents/devops/infra-monitor/SOUL.md",
+      "company": "TechCorp",
+      "department": "infrastructure"
     },
     {
       "id": "log-analyzer",
@@ -238,6 +304,8 @@
       "name": "log-analyzer",
       "role": "",
       "path": "agents/devops/log-analyzer/SOUL.md",
+      "company": "TechCorp",
+      "department": "infrastructure"
     },
     {
       "id": "raspberry-pi",
@@ -245,13 +313,17 @@
       "name": "pihole",
       "role": "",
       "path": "agents/devops/raspberry-pi/SOUL.md",
+      "company": "TechCorp",
+      "department": "infrastructure"
     },
     {
       "id": "self-healing-server",
       "category": "devops",
-      "name": "openclaw-gateway",
+      "name": "Self-Healing Server",
       "role": "",
       "path": "agents/devops/self-healing-server/SOUL.md",
+      "company": "TechCorp",
+      "department": "infrastructure"
     },
     {
       "id": "abandoned-cart",
@@ -259,6 +331,8 @@
       "name": "Abandoned Cart",
       "role": "Cart Recovery and Conversion Agent",
       "path": "agents/ecommerce/abandoned-cart/SOUL.md",
+      "company": "BizOps",
+      "department": "ecommerce"
     },
     {
       "id": "inventory-tracker",
@@ -266,6 +340,8 @@
       "name": "Inventory Tracker",
       "role": "E-commerce Inventory Management Agent",
       "path": "agents/ecommerce/inventory-tracker/SOUL.md",
+      "company": "BizOps",
+      "department": "ecommerce"
     },
     {
       "id": "pricing-optimizer",
@@ -273,6 +349,8 @@
       "name": "Pricing Optimizer",
       "role": "Dynamic Pricing Strategy Agent",
       "path": "agents/ecommerce/pricing-optimizer/SOUL.md",
+      "company": "BizOps",
+      "department": "ecommerce"
     },
     {
       "id": "product-lister",
@@ -280,6 +358,8 @@
       "name": "Product Lister",
       "role": "E-commerce Product Listing Agent",
       "path": "agents/ecommerce/product-lister/SOUL.md",
+      "company": "BizOps",
+      "department": "ecommerce"
     },
     {
       "id": "review-responder",
@@ -287,6 +367,8 @@
       "name": "Review Responder",
       "role": "Customer Review Response Agent",
       "path": "agents/ecommerce/review-responder/SOUL.md",
+      "company": "BizOps",
+      "department": "ecommerce"
     },
     {
       "id": "language-tutor",
@@ -294,6 +376,8 @@
       "name": "Language Tutor",
       "role": "Personalized Language Learning Agent",
       "path": "agents/education/language-tutor/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "education"
     },
     {
       "id": "quiz-maker",
@@ -301,6 +385,8 @@
       "name": "quiz-maker",
       "role": "",
       "path": "agents/education/quiz-maker/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "education"
     },
     {
       "id": "research-assistant",
@@ -308,6 +394,8 @@
       "name": "research-assistant",
       "role": "",
       "path": "agents/education/research-assistant/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "education"
     },
     {
       "id": "study-planner",
@@ -315,6 +403,8 @@
       "name": "study-planner",
       "role": "",
       "path": "agents/education/study-planner/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "education"
     },
     {
       "id": "tutor",
@@ -322,6 +412,8 @@
       "name": "tutor",
       "role": "",
       "path": "agents/education/tutor/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "education"
     },
     {
       "id": "expense-tracker",
@@ -329,6 +421,8 @@
       "name": "expense-tracker",
       "role": "",
       "path": "agents/finance/expense-tracker/SOUL.md",
+      "company": "BizOps",
+      "department": "finance"
     },
     {
       "id": "invoice-manager",
@@ -336,6 +430,8 @@
       "name": "invoice-manager",
       "role": "",
       "path": "agents/finance/invoice-manager/SOUL.md",
+      "company": "BizOps",
+      "department": "finance"
     },
     {
       "id": "revenue-analyst",
@@ -343,6 +439,8 @@
       "name": "revenue-analyst",
       "role": "",
       "path": "agents/finance/revenue-analyst/SOUL.md",
+      "company": "BizOps",
+      "department": "finance"
     },
     {
       "id": "tax-preparer",
@@ -350,6 +448,8 @@
       "name": "tax-preparer",
       "role": "",
       "path": "agents/finance/tax-preparer/SOUL.md",
+      "company": "BizOps",
+      "department": "finance"
     },
     {
       "id": "trading-bot",
@@ -357,6 +457,8 @@
       "name": "trading-bot",
       "role": "",
       "path": "agents/finance/trading-bot/SOUL.md",
+      "company": "BizOps",
+      "department": "finance"
     },
     {
       "id": "client-manager",
@@ -364,6 +466,8 @@
       "name": "Client Manager",
       "role": "Freelance Client Relationship Agent",
       "path": "agents/freelance/client-manager/SOUL.md",
+      "company": "AutoWorks",
+      "department": "freelance"
     },
     {
       "id": "proposal-writer",
@@ -371,6 +475,8 @@
       "name": "Proposal Writer",
       "role": "Freelance Proposal Drafting Agent",
       "path": "agents/freelance/proposal-writer/SOUL.md",
+      "company": "AutoWorks",
+      "department": "freelance"
     },
     {
       "id": "time-tracker",
@@ -378,6 +484,8 @@
       "name": "Time Tracker",
       "role": "Freelance Time and Productivity Agent",
       "path": "agents/freelance/time-tracker/SOUL.md",
+      "company": "AutoWorks",
+      "department": "freelance"
     },
     {
       "id": "moltbook-community-manager",
@@ -385,6 +493,8 @@
       "name": "Community Manager",
       "role": "Moltbook Community Management Agent",
       "path": "agents/moltbook/community-manager/SOUL.md",
+      "company": "AutoWorks",
+      "department": "moltbook"
     },
     {
       "id": "moltbook-scout",
@@ -392,6 +502,8 @@
       "name": "Scout",
       "role": "Moltbook Feed Monitoring Agent",
       "path": "agents/moltbook/scout/SOUL.md",
+      "company": "AutoWorks",
+      "department": "moltbook"
     },
     {
       "id": "moltbook-growth-agent",
@@ -399,6 +511,8 @@
       "name": "Growth Agent",
       "role": "Moltbook Growth and Influence Agent",
       "path": "agents/moltbook/growth-agent/SOUL.md",
+      "company": "AutoWorks",
+      "department": "moltbook"
     },
     {
       "id": "meal-planner",
@@ -406,6 +520,8 @@
       "name": "meal-planner",
       "role": "",
       "path": "agents/healthcare/meal-planner/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "healthcare"
     },
     {
       "id": "wellness-coach",
@@ -413,6 +529,8 @@
       "name": "wellness-coach",
       "role": "",
       "path": "agents/healthcare/wellness-coach/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "healthcare"
     },
     {
       "id": "workout-tracker",
@@ -420,6 +538,8 @@
       "name": "workout-tracker",
       "role": "",
       "path": "agents/healthcare/workout-tracker/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "healthcare"
     },
     {
       "id": "onboarding",
@@ -427,6 +547,8 @@
       "name": "onboarding",
       "role": "",
       "path": "agents/hr/onboarding/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "hr"
     },
     {
       "id": "performance-reviewer",
@@ -434,6 +556,8 @@
       "name": "performance-reviewer",
       "role": "",
       "path": "agents/hr/performance-reviewer/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "hr"
     },
     {
       "id": "recruiter",
@@ -441,6 +565,8 @@
       "name": "recruiter",
       "role": "",
       "path": "agents/hr/recruiter/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "hr"
     },
     {
       "id": "compliance-checker",
@@ -448,6 +574,8 @@
       "name": "compliance-checker",
       "role": "",
       "path": "agents/legal/compliance-checker/SOUL.md",
+      "company": "IndustryPro",
+      "department": "legal"
     },
     {
       "id": "contract-reviewer",
@@ -455,6 +583,8 @@
       "name": "contract-reviewer",
       "role": "",
       "path": "agents/legal/contract-reviewer/SOUL.md",
+      "company": "IndustryPro",
+      "department": "legal"
     },
     {
       "id": "policy-writer",
@@ -462,6 +592,8 @@
       "name": "policy-writer",
       "role": "",
       "path": "agents/legal/policy-writer/SOUL.md",
+      "company": "IndustryPro",
+      "department": "legal"
     },
     {
       "id": "ab-test-analyzer",
@@ -469,6 +601,8 @@
       "name": "A/B Test Analyzer",
       "role": "Experimentation and A/B Test Analysis Agent",
       "path": "agents/marketing/ab-test-analyzer/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "brand-monitor",
@@ -476,6 +610,8 @@
       "name": "Brand Monitor",
       "role": "Brand Mention and Reputation Tracking Agent",
       "path": "agents/marketing/brand-monitor/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "cold-outreach",
@@ -483,6 +619,8 @@
       "name": "cold-outreach",
       "role": "",
       "path": "agents/marketing/cold-outreach/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "competitor-watch",
@@ -490,6 +628,8 @@
       "name": "competitor-watch",
       "role": "",
       "path": "agents/marketing/competitor-watch/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "echo",
@@ -497,6 +637,8 @@
       "name": "echo",
       "role": "",
       "path": "agents/marketing/echo/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "influencer-finder",
@@ -504,6 +646,8 @@
       "name": "Influencer Finder",
       "role": "Influencer Discovery and Outreach Agent",
       "path": "agents/marketing/influencer-finder/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "newsletter",
@@ -511,6 +655,8 @@
       "name": "newsletter",
       "role": "",
       "path": "agents/marketing/newsletter/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "reddit-scout",
@@ -518,6 +664,8 @@
       "name": "reddit-scout",
       "role": "",
       "path": "agents/marketing/reddit-scout/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "seo-writer",
@@ -525,6 +673,8 @@
       "name": "seo-writer",
       "role": "",
       "path": "agents/marketing/seo-writer/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "social-media",
@@ -532,6 +682,8 @@
       "name": "social-media",
       "role": "",
       "path": "agents/marketing/social-media/SOUL.md",
+      "company": "MarketGrow",
+      "department": "social"
     },
     {
       "id": "tiktok-repurposer",
@@ -539,6 +691,8 @@
       "name": "tiktok-repurposer",
       "role": "",
       "path": "agents/marketing/tiktok-repurposer/SOUL.md",
+      "company": "MarketGrow",
+      "department": "social"
     },
     {
       "id": "daily-planner",
@@ -546,6 +700,8 @@
       "name": "daily-planner",
       "role": "",
       "path": "agents/personal/daily-planner/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "personal"
     },
     {
       "id": "family-coordinator",
@@ -553,6 +709,8 @@
       "name": "Dad",
       "role": "",
       "path": "agents/personal/family-coordinator/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "personal"
     },
     {
       "id": "fitness-coach",
@@ -560,6 +718,8 @@
       "name": "fitness-coach",
       "role": "",
       "path": "agents/personal/fitness-coach/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "personal"
     },
     {
       "id": "home-automation",
@@ -567,6 +727,8 @@
       "name": "home-automation",
       "role": "",
       "path": "agents/personal/home-automation/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "personal"
     },
     {
       "id": "reading-digest",
@@ -574,6 +736,8 @@
       "name": "reading-digest",
       "role": "",
       "path": "agents/personal/reading-digest/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "personal"
     },
     {
       "id": "daily-standup",
@@ -581,6 +745,8 @@
       "name": "daily-standup",
       "role": "",
       "path": "agents/productivity/daily-standup/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "productivity"
     },
     {
       "id": "focus-timer",
@@ -588,6 +754,8 @@
       "name": "Focus Timer",
       "role": "Deep Work and Focus Management Agent",
       "path": "agents/productivity/focus-timer/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "productivity"
     },
     {
       "id": "habit-tracker",
@@ -595,6 +763,8 @@
       "name": "Habit Tracker",
       "role": "Daily Habit and Streak Management Agent",
       "path": "agents/productivity/habit-tracker/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "productivity"
     },
     {
       "id": "inbox-zero",
@@ -602,6 +772,8 @@
       "name": "inbox-zero",
       "role": "",
       "path": "agents/productivity/inbox-zero/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "productivity"
     },
     {
       "id": "meeting-notes",
@@ -609,6 +781,8 @@
       "name": "meeting-notes",
       "role": "",
       "path": "agents/productivity/meeting-notes/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "productivity"
     },
     {
       "id": "metrics",
@@ -616,6 +790,8 @@
       "name": "metrics",
       "role": "",
       "path": "agents/productivity/metrics/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "productivity"
     },
     {
       "id": "orion",
@@ -623,6 +799,8 @@
       "name": "orion",
       "role": "",
       "path": "agents/productivity/orion/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "productivity"
     },
     {
       "id": "lead-qualifier",
@@ -630,6 +808,8 @@
       "name": "Lead Qualifier",
       "role": "Real Estate Lead Qualification Agent",
       "path": "agents/real-estate/lead-qualifier/SOUL.md",
+      "company": "IndustryPro",
+      "department": "real-estate"
     },
     {
       "id": "listing-scout",
@@ -637,6 +817,8 @@
       "name": "Listing Scout",
       "role": "Real Estate Listing Discovery Agent",
       "path": "agents/real-estate/listing-scout/SOUL.md",
+      "company": "IndustryPro",
+      "department": "real-estate"
     },
     {
       "id": "market-analyzer",
@@ -644,6 +826,8 @@
       "name": "Market Analyzer",
       "role": "Real Estate Market Intelligence Agent",
       "path": "agents/real-estate/market-analyzer/SOUL.md",
+      "company": "IndustryPro",
+      "department": "real-estate"
     },
     {
       "id": "churn-prevention",
@@ -651,6 +835,8 @@
       "name": "Churn Prevention",
       "role": "SaaS Churn Detection and Prevention Agent",
       "path": "agents/saas/churn-prevention/SOUL.md",
+      "company": "IndustryPro",
+      "department": "saas"
     },
     {
       "id": "feature-request",
@@ -658,6 +844,8 @@
       "name": "Feature Request",
       "role": "Feature Request Triage and Prioritization Agent",
       "path": "agents/saas/feature-request/SOUL.md",
+      "company": "IndustryPro",
+      "department": "saas"
     },
     {
       "id": "onboarding-flow",
@@ -665,6 +853,8 @@
       "name": "Onboarding Flow",
       "role": "SaaS User Onboarding Agent",
       "path": "agents/saas/onboarding-flow/SOUL.md",
+      "company": "IndustryPro",
+      "department": "saas"
     },
     {
       "id": "release-notes",
@@ -672,6 +862,8 @@
       "name": "Release Notes",
       "role": "Product Release Communication Agent",
       "path": "agents/saas/release-notes/SOUL.md",
+      "company": "IndustryPro",
+      "department": "saas"
     },
     {
       "id": "usage-analytics",
@@ -679,6 +871,8 @@
       "name": "Usage Analytics",
       "role": "Product Usage Intelligence Agent",
       "path": "agents/saas/usage-analytics/SOUL.md",
+      "company": "IndustryPro",
+      "department": "saas"
     },
     {
       "id": "access-auditor",
@@ -686,6 +880,8 @@
       "name": "access-auditor",
       "role": "",
       "path": "agents/security/access-auditor/SOUL.md",
+      "company": "TechCorp",
+      "department": "security"
     },
     {
       "id": "incident-logger",
@@ -693,6 +889,8 @@
       "name": "incident-logger",
       "role": "",
       "path": "agents/security/incident-logger/SOUL.md",
+      "company": "TechCorp",
+      "department": "security"
     },
     {
       "id": "phishing-detector",
@@ -700,6 +898,8 @@
       "name": "Phishing Detector",
       "role": "Email and URL Phishing Detection Agent",
       "path": "agents/security/phishing-detector/SOUL.md",
+      "company": "TechCorp",
+      "department": "security"
     },
     {
       "id": "security-hardener",
@@ -707,6 +907,8 @@
       "name": "security-hardener",
       "role": "",
       "path": "agents/security/security-hardener/SOUL.md",
+      "company": "TechCorp",
+      "department": "security"
     },
     {
       "id": "threat-monitor",
@@ -714,6 +916,8 @@
       "name": "threat-monitor",
       "role": "",
       "path": "agents/security/threat-monitor/SOUL.md",
+      "company": "TechCorp",
+      "department": "security"
     },
     {
       "id": "vuln-scanner",
@@ -721,6 +925,8 @@
       "name": "vuln-scanner",
       "role": "",
       "path": "agents/security/vuln-scanner/SOUL.md",
+      "company": "TechCorp",
+      "department": "security"
     },
     {
       "id": "route-optimizer",
@@ -728,6 +934,8 @@
       "name": "Route Optimizer",
       "role": "Route Optimization Agent",
       "path": "agents/supply-chain/route-optimizer/SOUL.md",
+      "company": "IndustryPro",
+      "department": "supply-chain"
     },
     {
       "id": "inventory-forecaster",
@@ -735,6 +943,8 @@
       "name": "Inventory Forecaster",
       "role": "Demand Forecasting Agent",
       "path": "agents/supply-chain/inventory-forecaster/SOUL.md",
+      "company": "IndustryPro",
+      "department": "supply-chain"
     },
     {
       "id": "vendor-evaluator",
@@ -742,6 +952,8 @@
       "name": "Vendor Evaluator",
       "role": "Supplier Evaluation Agent",
       "path": "agents/supply-chain/vendor-evaluator/SOUL.md",
+      "company": "IndustryPro",
+      "department": "supply-chain"
     },
     {
       "id": "gdpr-auditor",
@@ -749,6 +961,8 @@
       "name": "GDPR Auditor",
       "role": "GDPR Compliance Agent",
       "path": "agents/compliance/gdpr-auditor/SOUL.md",
+      "company": "BizOps",
+      "department": "compliance"
     },
     {
       "id": "soc2-preparer",
@@ -756,6 +970,8 @@
       "name": "SOC2 Preparer",
       "role": "SOC 2 Audit Agent",
       "path": "agents/compliance/soc2-preparer/SOUL.md",
+      "company": "BizOps",
+      "department": "compliance"
     },
     {
       "id": "ai-policy-writer",
@@ -763,6 +979,8 @@
       "name": "AI Policy Writer",
       "role": "AI Governance Agent",
       "path": "agents/compliance/ai-policy-writer/SOUL.md",
+      "company": "BizOps",
+      "department": "compliance"
     },
     {
       "id": "risk-assessor",
@@ -770,6 +988,8 @@
       "name": "Risk Assessor",
       "role": "Risk Assessment Agent",
       "path": "agents/compliance/risk-assessor/SOUL.md",
+      "company": "BizOps",
+      "department": "compliance"
     },
     {
       "id": "phone-receptionist",
@@ -777,6 +997,8 @@
       "name": "Phone Receptionist",
       "role": "Voice Reception Agent",
       "path": "agents/voice/phone-receptionist/SOUL.md",
+      "company": "AutoWorks",
+      "department": "voice"
     },
     {
       "id": "voicemail-transcriber",
@@ -784,6 +1006,8 @@
       "name": "Voicemail Transcriber",
       "role": "Voicemail Agent",
       "path": "agents/voice/voicemail-transcriber/SOUL.md",
+      "company": "AutoWorks",
+      "department": "voice"
     },
     {
       "id": "interview-bot",
@@ -791,6 +1015,8 @@
       "name": "Interview Bot",
       "role": "Interview Screening Agent",
       "path": "agents/voice/interview-bot/SOUL.md",
+      "company": "AutoWorks",
+      "department": "voice"
     },
     {
       "id": "nps-followup",
@@ -798,6 +1024,8 @@
       "name": "NPS Followup",
       "role": "NPS Recovery Agent",
       "path": "agents/customer-success/nps-followup/SOUL.md",
+      "company": "BizOps",
+      "department": "customer-success"
     },
     {
       "id": "onboarding-guide",
@@ -805,6 +1033,8 @@
       "name": "Onboarding Guide",
       "role": "User Onboarding Agent",
       "path": "agents/customer-success/onboarding-guide/SOUL.md",
+      "company": "BizOps",
+      "department": "customer-success"
     },
     {
       "id": "patent-analyzer",
@@ -812,6 +1042,8 @@
       "name": "Patent Analyzer",
       "role": "Patent Analysis Agent",
       "path": "agents/legal/patent-analyzer/SOUL.md",
+      "company": "IndustryPro",
+      "department": "legal"
     },
     {
       "id": "legal-brief-writer",
@@ -819,6 +1051,8 @@
       "name": "Legal Brief Writer",
       "role": "Legal Drafting Agent",
       "path": "agents/legal/legal-brief-writer/SOUL.md",
+      "company": "IndustryPro",
+      "department": "legal"
     },
     {
       "id": "nda-generator",
@@ -826,6 +1060,8 @@
       "name": "NDA Generator",
       "role": "NDA Drafting Agent",
       "path": "agents/legal/nda-generator/SOUL.md",
+      "company": "IndustryPro",
+      "department": "legal"
     },
     {
       "id": "fraud-detector",
@@ -833,6 +1069,8 @@
       "name": "Fraud Detector",
       "role": "Fraud Detection Agent",
       "path": "agents/finance/fraud-detector/SOUL.md",
+      "company": "BizOps",
+      "department": "finance"
     },
     {
       "id": "financial-forecaster",
@@ -840,6 +1078,8 @@
       "name": "Financial Forecaster",
       "role": "Financial Forecasting Agent",
       "path": "agents/finance/financial-forecaster/SOUL.md",
+      "company": "BizOps",
+      "department": "finance"
     },
     {
       "id": "portfolio-rebalancer",
@@ -847,6 +1087,8 @@
       "name": "Portfolio Rebalancer",
       "role": "Portfolio Management Agent",
       "path": "agents/finance/portfolio-rebalancer/SOUL.md",
+      "company": "BizOps",
+      "department": "finance"
     },
     {
       "id": "accounts-payable",
@@ -854,6 +1096,8 @@
       "name": "Accounts Payable",
       "role": "AP Automation Agent",
       "path": "agents/finance/accounts-payable/SOUL.md",
+      "company": "BizOps",
+      "department": "finance"
     },
     {
       "id": "symptom-triage",
@@ -861,6 +1105,8 @@
       "name": "Symptom Triage",
       "role": "Symptom Assessment Agent",
       "path": "agents/healthcare/symptom-triage/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "healthcare"
     },
     {
       "id": "clinical-notes",
@@ -868,6 +1114,8 @@
       "name": "Clinical Notes",
       "role": "Clinical Documentation Agent",
       "path": "agents/healthcare/clinical-notes/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "healthcare"
     },
     {
       "id": "medication-checker",
@@ -875,6 +1123,8 @@
       "name": "Medication Checker",
       "role": "Medication Safety Agent",
       "path": "agents/healthcare/medication-checker/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "healthcare"
     },
     {
       "id": "patient-intake",
@@ -882,6 +1132,8 @@
       "name": "Patient Intake",
       "role": "Patient Registration Agent",
       "path": "agents/healthcare/patient-intake/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "healthcare"
     },
     {
       "id": "resume-screener",
@@ -889,6 +1141,8 @@
       "name": "Resume Screener",
       "role": "Resume Screening Agent",
       "path": "agents/hr/resume-screener/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "hr"
     },
     {
       "id": "exit-interview",
@@ -896,6 +1150,8 @@
       "name": "Exit Interview",
       "role": "Exit Interview Agent",
       "path": "agents/hr/exit-interview/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "hr"
     },
     {
       "id": "benefits-advisor",
@@ -903,6 +1159,8 @@
       "name": "Benefits Advisor",
       "role": "Employee Benefits Agent",
       "path": "agents/hr/benefits-advisor/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "hr"
     },
     {
       "id": "compensation-benchmarker",
@@ -910,6 +1168,8 @@
       "name": "Compensation Benchmarker",
       "role": "Compensation Analysis Agent",
       "path": "agents/hr/compensation-benchmarker/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "hr"
     },
     {
       "id": "sdr-outbound",
@@ -917,6 +1177,8 @@
       "name": "SDR Outbound",
       "role": "Outbound SDR Agent",
       "path": "agents/business/sdr-outbound/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "deal-forecaster",
@@ -924,6 +1186,8 @@
       "name": "Deal Forecaster",
       "role": "Deal Prediction Agent",
       "path": "agents/business/deal-forecaster/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "objection-handler",
@@ -931,6 +1195,8 @@
       "name": "Objection Handler",
       "role": "Sales Objection Agent",
       "path": "agents/business/objection-handler/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "schema-designer",
@@ -938,6 +1204,8 @@
       "name": "Schema Designer",
       "role": "Database Schema Agent",
       "path": "agents/development/schema-designer/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "runbook-writer",
@@ -945,6 +1213,8 @@
       "name": "Runbook Writer",
       "role": "Runbook Generation Agent",
       "path": "agents/devops/runbook-writer/SOUL.md",
+      "company": "TechCorp",
+      "department": "infrastructure"
     },
     {
       "id": "sla-monitor",
@@ -952,6 +1222,8 @@
       "name": "SLA Monitor",
       "role": "SLA Compliance Agent",
       "path": "agents/devops/sla-monitor/SOUL.md",
+      "company": "TechCorp",
+      "department": "infrastructure"
     },
     {
       "id": "capacity-planner",
@@ -959,6 +1231,8 @@
       "name": "Capacity Planner",
       "role": "Capacity Planning Agent",
       "path": "agents/devops/capacity-planner/SOUL.md",
+      "company": "TechCorp",
+      "department": "infrastructure"
     },
     {
       "id": "ad-copywriter",
@@ -966,6 +1240,8 @@
       "name": "Ad Copywriter",
       "role": "Ad Copy Agent",
       "path": "agents/creative/ad-copywriter/SOUL.md",
+      "company": "MarketGrow",
+      "department": "creative"
     },
     {
       "id": "storyboard-writer",
@@ -973,6 +1249,8 @@
       "name": "Storyboard Writer",
       "role": "Storyboard Agent",
       "path": "agents/creative/storyboard-writer/SOUL.md",
+      "company": "MarketGrow",
+      "department": "creative"
     },
     {
       "id": "curriculum-designer",
@@ -980,6 +1258,8 @@
       "name": "Curriculum Designer",
       "role": "Curriculum Design Agent",
       "path": "agents/education/curriculum-designer/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "education"
     },
     {
       "id": "essay-grader",
@@ -987,6 +1267,8 @@
       "name": "Essay Grader",
       "role": "Essay Grading Agent",
       "path": "agents/education/essay-grader/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "education"
     },
     {
       "id": "flashcard-generator",
@@ -994,6 +1276,8 @@
       "name": "Flashcard Generator",
       "role": "Flashcard Agent",
       "path": "agents/education/flashcard-generator/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "education"
     },
     {
       "id": "anomaly-detector",
@@ -1001,6 +1285,8 @@
       "name": "Anomaly Detector",
       "role": "Anomaly Detection Agent",
       "path": "agents/data/anomaly-detector/SOUL.md",
+      "company": "TechCorp",
+      "department": "data"
     },
     {
       "id": "survey-analyzer",
@@ -1008,6 +1294,8 @@
       "name": "Survey Analyzer",
       "role": "Survey Analysis Agent",
       "path": "agents/data/survey-analyzer/SOUL.md",
+      "company": "TechCorp",
+      "department": "data"
     },
     {
       "id": "travel-planner",
@@ -1015,6 +1303,8 @@
       "name": "Travel Planner",
       "role": "Travel Planning Agent",
       "path": "agents/personal/travel-planner/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "personal"
     },
     {
       "id": "journal-prompter",
@@ -1022,6 +1312,8 @@
       "name": "Journal Prompter",
       "role": "Journaling Agent",
       "path": "agents/personal/journal-prompter/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "personal"
     },
     {
       "id": "email-sequence",
@@ -1029,6 +1321,8 @@
       "name": "Email Sequence",
       "role": "Email Drip Agent",
       "path": "agents/marketing/email-sequence/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "content-repurposer",
@@ -1036,6 +1330,8 @@
       "name": "Content Repurposer",
       "role": "Content Distribution Agent",
       "path": "agents/marketing/content-repurposer/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "negotiation-agent",
@@ -1043,6 +1339,8 @@
       "name": "Negotiation Agent",
       "role": "Auto-Negotiation Agent",
       "path": "agents/automation/negotiation-agent/SOUL.md",
+      "company": "AutoWorks",
+      "department": "automation"
     },
     {
       "id": "job-applicant",
@@ -1050,6 +1348,8 @@
       "name": "Job Applicant",
       "role": "Job Application Agent",
       "path": "agents/automation/job-applicant/SOUL.md",
+      "company": "AutoWorks",
+      "department": "automation"
     },
     {
       "id": "morning-briefing",
@@ -1057,6 +1357,8 @@
       "name": "Morning Briefing",
       "role": "Daily Briefing Agent",
       "path": "agents/automation/morning-briefing/SOUL.md",
+      "company": "AutoWorks",
+      "department": "automation"
     },
     {
       "id": "flight-scraper",
@@ -1064,6 +1366,8 @@
       "name": "Flight Scraper",
       "role": "Flight Deal Agent",
       "path": "agents/automation/flight-scraper/SOUL.md",
+      "company": "AutoWorks",
+      "department": "automation"
     },
     {
       "id": "overnight-coder",
@@ -1071,6 +1375,8 @@
       "name": "Overnight Coder",
       "role": "Autonomous Coding Agent",
       "path": "agents/automation/overnight-coder/SOUL.md",
+      "company": "AutoWorks",
+      "department": "automation"
     },
     {
       "id": "discord-business",
@@ -1078,6 +1384,8 @@
       "name": "Discord Business",
       "role": "Discord Operations Agent",
       "path": "agents/automation/discord-business/SOUL.md",
+      "company": "AutoWorks",
+      "department": "automation"
     },
     {
       "id": "book-writer",
@@ -1085,6 +1393,8 @@
       "name": "Book Writer",
       "role": "Book Production Agent",
       "path": "agents/marketing/book-writer/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "news-curator",
@@ -1092,6 +1402,8 @@
       "name": "News Curator",
       "role": "News Curation Agent",
       "path": "agents/marketing/news-curator/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "ugc-video",
@@ -1099,6 +1411,8 @@
       "name": "UGC Video",
       "role": "UGC Video Agent",
       "path": "agents/marketing/ugc-video/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "multi-account-social",
@@ -1106,6 +1420,8 @@
       "name": "Multi-Account Social",
       "role": "Multi-Account Social Agent",
       "path": "agents/marketing/multi-account-social/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "dropshipping-researcher",
@@ -1113,6 +1429,8 @@
       "name": "Dropshipping Researcher",
       "role": "Product Research Agent",
       "path": "agents/ecommerce/dropshipping-researcher/SOUL.md",
+      "company": "BizOps",
+      "department": "ecommerce"
     },
     {
       "id": "property-video",
@@ -1120,6 +1438,8 @@
       "name": "Property Video",
       "role": "Real Estate Video Agent",
       "path": "agents/real-estate/property-video/SOUL.md",
+      "company": "IndustryPro",
+      "department": "real-estate"
     },
     {
       "id": "commercial-re",
@@ -1127,6 +1447,8 @@
       "name": "Commercial RE",
       "role": "Commercial Real Estate Agent",
       "path": "agents/real-estate/commercial-re/SOUL.md",
+      "company": "IndustryPro",
+      "department": "real-estate"
     },
     {
       "id": "copy-trader",
@@ -1134,6 +1456,8 @@
       "name": "Copy Trader",
       "role": "Copy Trading Agent",
       "path": "agents/finance/copy-trader/SOUL.md",
+      "company": "BizOps",
+      "department": "finance"
     },
     {
       "id": "data-entry",
@@ -1141,6 +1465,8 @@
       "name": "Data Entry",
       "role": "Data Entry Agent",
       "path": "agents/data/data-entry/SOUL.md",
+      "company": "TechCorp",
+      "department": "data"
     },
     {
       "id": "transcription",
@@ -1148,6 +1474,8 @@
       "name": "Transcription",
       "role": "Transcription Agent",
       "path": "agents/data/transcription/SOUL.md",
+      "company": "TechCorp",
+      "department": "data"
     },
     {
       "id": "audio-producer",
@@ -1155,6 +1483,8 @@
       "name": "Audio Producer",
       "role": "Audio Production Agent",
       "path": "agents/creative/audio-producer/SOUL.md",
+      "company": "MarketGrow",
+      "department": "creative"
     },
     {
       "id": "proofreader",
@@ -1162,6 +1492,8 @@
       "name": "Proofreader",
       "role": "Proofreading Agent",
       "path": "agents/creative/proofreader/SOUL.md",
+      "company": "MarketGrow",
+      "department": "creative"
     },
     {
       "id": "video-ad-creator",
@@ -1169,6 +1501,8 @@
       "name": "Viso",
       "role": "Video Ad Creator",
       "path": "agents/creative/video-ad-creator/SOUL.md",
+      "company": "MarketGrow",
+      "department": "creative"
     },
     {
       "id": "short-form-video",
@@ -1176,6 +1510,8 @@
       "name": "Clipper",
       "role": "Short-Form Video Producer",
       "path": "agents/creative/short-form-video/SOUL.md",
+      "company": "MarketGrow",
+      "department": "creative"
     },
     {
       "id": "music-producer",
@@ -1183,6 +1519,8 @@
       "name": "Beats",
       "role": "Music Producer",
       "path": "agents/creative/music-producer/SOUL.md",
+      "company": "MarketGrow",
+      "department": "creative"
     },
     {
       "id": "multimedia-content-pipeline",
@@ -1190,6 +1528,8 @@
       "name": "Studio",
       "role": "Multimedia Content Pipeline",
       "path": "agents/marketing/multimedia-content-pipeline/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "tiktok-video-creator",
@@ -1197,6 +1537,8 @@
       "name": "TikTik",
       "role": "TikTok Video Creator",
       "path": "agents/marketing/tiktok-video-creator/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "instagram-reels-creator",
@@ -1204,6 +1546,8 @@
       "name": "Reely",
       "role": "Instagram Reels Creator",
       "path": "agents/marketing/instagram-reels-creator/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "youtube-shorts-creator",
@@ -1211,6 +1555,8 @@
       "name": "Shorty",
       "role": "YouTube Shorts Creator",
       "path": "agents/marketing/youtube-shorts-creator/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "script-builder",
@@ -1218,6 +1564,8 @@
       "name": "Script Builder",
       "role": "Script Automation Agent",
       "path": "agents/development/script-builder/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "qa-tester",
@@ -1225,6 +1573,8 @@
       "name": "QA Tester",
       "role": "QA Testing Agent",
       "path": "agents/development/qa-tester/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "ecommerce-dev",
@@ -1232,6 +1582,8 @@
       "name": "Ecommerce Dev",
       "role": "Ecommerce Development Agent",
       "path": "agents/development/ecommerce-dev/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "blockchain-analyst",
@@ -1239,6 +1591,8 @@
       "name": "Blockchain Analyst",
       "role": "Blockchain Analysis Agent",
       "path": "agents/development/blockchain-analyst/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "game-designer",
@@ -1246,6 +1600,8 @@
       "name": "Game Designer",
       "role": "Game Design Agent",
       "path": "agents/development/game-designer/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "lead-gen",
@@ -1253,6 +1609,8 @@
       "name": "Lead Gen",
       "role": "Lead Generation Agent",
       "path": "agents/business/lead-gen/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "erp-admin",
@@ -1260,6 +1618,8 @@
       "name": "ERP Admin",
       "role": "ERP/CRM Administration Agent",
       "path": "agents/business/erp-admin/SOUL.md",
+      "company": "BizOps",
+      "department": "sales"
     },
     {
       "id": "telemarketer",
@@ -1267,6 +1627,8 @@
       "name": "Telemarketer",
       "role": "Telemarketing Agent",
       "path": "agents/marketing/telemarketer/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "localization",
@@ -1274,6 +1636,8 @@
       "name": "Localization",
       "role": "Localization Agent",
       "path": "agents/marketing/localization/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "product-scrum",
@@ -1281,6 +1645,8 @@
       "name": "Product Scrum",
       "role": "Scrum Master Agent",
       "path": "agents/saas/product-scrum/SOUL.md",
+      "company": "IndustryPro",
+      "department": "saas"
     },
     {
       "id": "upwork-proposal",
@@ -1288,6 +1654,8 @@
       "name": "Upwork Proposal",
       "role": "Proposal Writing Agent",
       "path": "agents/freelance/upwork-proposal/SOUL.md",
+      "company": "AutoWorks",
+      "department": "freelance"
     },
     {
       "id": "github-pr-reviewer",
@@ -1295,6 +1663,8 @@
       "name": "GitHub PR Reviewer",
       "role": "Automated Pull Request Review Agent",
       "path": "agents/development/github-pr-reviewer/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "linkedin-content",
@@ -1302,6 +1672,8 @@
       "name": "LinkedIn Content",
       "role": "LinkedIn Content Creation and Growth Agent",
       "path": "agents/marketing/linkedin-content/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "x-twitter-growth",
@@ -1309,6 +1681,8 @@
       "name": "X/Twitter Growth",
       "role": "Twitter/X Growth and Content Agent",
       "path": "agents/marketing/x-twitter-growth/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "youtube-seo",
@@ -1316,6 +1690,8 @@
       "name": "YouTube SEO",
       "role": "YouTube SEO Optimization Agent",
       "path": "agents/marketing/youtube-seo/SOUL.md",
+      "company": "MarketGrow",
+      "department": "content"
     },
     {
       "id": "meeting-transcriber",
@@ -1323,6 +1699,8 @@
       "name": "Meeting Transcriber",
       "role": "Meeting Transcription and Summary Agent",
       "path": "agents/productivity/meeting-transcriber/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "productivity"
     },
     {
       "id": "api-documentation",
@@ -1330,6 +1708,8 @@
       "name": "API Documentation",
       "role": "API Documentation Generator Agent",
       "path": "agents/development/api-documentation/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "price-monitor",
@@ -1337,6 +1717,8 @@
       "name": "Price Monitor",
       "role": "Competitor Price Monitoring Agent",
       "path": "agents/ecommerce/price-monitor/SOUL.md",
+      "company": "BizOps",
+      "department": "ecommerce"
     },
     {
       "id": "notion-organizer",
@@ -1344,6 +1726,8 @@
       "name": "Notion Organizer",
       "role": "Notion Workspace Organization Agent",
       "path": "agents/productivity/notion-organizer/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "productivity"
     },
     {
       "id": "github-issue-triager",
@@ -1351,6 +1735,8 @@
       "name": "GitHub Issue Triager",
       "role": "GitHub Issue Triage Agent",
       "path": "agents/development/github-issue-triager/SOUL.md",
+      "company": "TechCorp",
+      "department": "engineering"
     },
     {
       "id": "resume-optimizer",
@@ -1358,6 +1744,8 @@
       "name": "Resume Optimizer",
       "role": "Resume and CV Optimization Agent",
       "path": "agents/hr/resume-optimizer/SOUL.md",
+      "company": "PeopleFirst",
+      "department": "hr"
     },
     {
       "id": "ollama-coding-assistant",
@@ -1365,6 +1753,8 @@
       "name": "Coding Assistant",
       "role": "Senior Software Engineer (Ollama/Gemma4)",
       "path": "configs/ollama/coding-assistant/SOUL.md",
+      "company": "Configs",
+      "department": "ollama"
     },
     {
       "id": "ollama-content-writer",
@@ -1372,6 +1762,8 @@
       "name": "Content Writer",
       "role": "Professional Content Writer (Ollama/Qwen3)",
       "path": "configs/ollama/content-writer/SOUL.md",
+      "company": "Configs",
+      "department": "ollama"
     },
     {
       "id": "ollama-research-analyst",
@@ -1379,6 +1771,8 @@
       "name": "Research Analyst",
       "role": "Research & Analysis Specialist (Ollama/DeepSeek V3)",
       "path": "configs/ollama/research-analyst/SOUL.md",
+      "company": "Configs",
+      "department": "ollama"
     },
     {
       "id": "ollama-project-manager",
@@ -1386,6 +1780,8 @@
       "name": "Project Manager",
       "role": "Technical Project Manager (Ollama/Gemma4:26b)",
       "path": "configs/ollama/project-manager/SOUL.md",
+      "company": "Configs",
+      "department": "ollama"
     },
     {
       "id": "ollama-customer-support",
@@ -1393,6 +1789,53 @@
       "name": "Customer Support",
       "role": "Customer Support Agent (Ollama/Gemma4:e4b)",
       "path": "configs/ollama/customer-support/SOUL.md",
+      "company": "Configs",
+      "department": "ollama"
+    },
+    {
+      "id": "hermes-coding-assistant",
+      "category": "hermes",
+      "name": "Coding Assistant",
+      "role": "Senior Software Engineer (Hermes 3/Ollama)",
+      "path": "configs/hermes/SOUL.md",
+      "company": "Configs",
+      "department": "hermes"
+    },
+    {
+      "id": "hermes-content-writer",
+      "category": "hermes",
+      "name": "Content Writer",
+      "role": "Professional Content Writer (Hermes 3/Ollama)",
+      "path": "configs/hermes/content-writer/SOUL.md",
+      "company": "Configs",
+      "department": "hermes"
+    },
+    {
+      "id": "hermes-research-analyst",
+      "category": "hermes",
+      "name": "Research Analyst",
+      "role": "Research & Analysis Specialist (Hermes 3/Ollama)",
+      "path": "configs/hermes/research-analyst/SOUL.md",
+      "company": "Configs",
+      "department": "hermes"
+    },
+    {
+      "id": "hermes-project-manager",
+      "category": "hermes",
+      "name": "Project Manager",
+      "role": "Technical Project Manager (Hermes 3/Ollama)",
+      "path": "configs/hermes/project-manager/SOUL.md",
+      "company": "Configs",
+      "department": "hermes"
+    },
+    {
+      "id": "hermes-customer-support",
+      "category": "hermes",
+      "name": "Customer Support",
+      "role": "Customer Support Agent (Hermes 3/Ollama)",
+      "path": "configs/hermes/customer-support/SOUL.md",
+      "company": "Configs",
+      "department": "hermes"
     }
   ]
 }

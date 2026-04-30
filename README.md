@@ -409,30 +409,268 @@ Set it and forget it. Agents that work while you sleep.
 
 ## Agent Companies
 
-Agents grouped by vendor / provider / platform.
+Agents are organized into **6 companies**, each with specialized departments. Pick a company that matches your needs, then choose a department.
 
-| Company | Count | Agents |
-|---------|-------|--------|
-| **OpenClaw Core** | 35 | [All OpenClaw agents](agents.json?filter=openclaw-core) |
-| **Anthropic** | 28 | [All Anthropic agents](agents.json?filter=anthropic) |
-| **Google** | 22 | [All Google agents](agents.json?filter=google) |
-| **Meta** | 18 | [All Meta agents](agents.json?filter=meta) |
-| **Microsoft** | 15 | [All Microsoft agents](agents.json?filter=microsoft) |
-| **Misc** | 86 | [All other agents](agents.json?filter=misc) |
+| Company | Focus | Departments | Agents |
+|---------|-------|-------------|--------|
+| [TechCorp](#techcorp) | Technology & Development | engineering · infrastructure · security · data | 43 |
+| [MarketGrow](#marketgrow) | Marketing, Content & Creative | content · creative · social | 39 |
+| [BizOps](#bizops) | Business Operations & Finance | sales · finance · ecommerce · customer-success · compliance | 37 |
+| [PeopleFirst](#peoplefirst) | HR, Education, Healthcare, Personal, Productivity | hr · education · healthcare · personal · productivity | 39 |
+| [IndustryPro](#industrypro) | Real Estate, Legal, Supply Chain, SaaS | real-estate · legal · supply-chain · saas | 20 |
+| [AutoWorks](#autoworks) | Automation & Freelance | automation · freelance · voice · moltbook | 16 |
+
+### TechCorp
+
+Technology & Development — building, running, and securing software.
+
+| Department | Agents | Explore |
+|------------|--------|---------|
+| engineering | 18 | [Development](#development) |
+| infrastructure | 10 | [DevOps](#devops) |
+| security | 6 | [Security](#security) |
+| data | 9 | [Data](#data) |
+
+<details>
+<summary><strong>engineering</strong> (18 agents)</summary>
+
+code-reviewer · bug-hunter · test-writer · api-tester · docs-writer · migration-helper · pr-merger · schema-designer · script-builder · qa-tester · ecommerce-dev · blockchain-analyst · game-designer · github-pr-reviewer · api-documentation · github-issue-triager · changelog · dependency-scanner
+
+</details>
+
+<details>
+<summary><strong>infrastructure</strong> (10 agents)</summary>
+
+cost-optimizer · deploy-guardian · incident-responder · infra-monitor · log-analyzer · self-healing-server · runbook-writer · sla-monitor · capacity-planner · raspberry-pi
+
+</details>
+
+<details>
+<summary><strong>security</strong> (6 agents)</summary>
+
+vuln-scanner · access-auditor · threat-monitor · incident-logger · security-hardener · phishing-detector
+
+</details>
+
+<details>
+<summary><strong>data</strong> (9 agents)</summary>
+
+dashboard-builder · data-cleaner · etl-pipeline · report-generator · sql-assistant · anomaly-detector · survey-analyzer · data-entry · transcription
+
+</details>
+
+### MarketGrow
+
+Marketing, Content & Creative — growing audiences and making it beautiful.
+
+| Department | Agents | Explore |
+|------------|--------|---------|
+| content | 24 | [Marketing & Content](#marketing--content) |
+| creative | 13 | [Creative](#creative) |
+| social | 2 | [Marketing & Content](#marketing--content) |
+
+<details>
+<summary><strong>content</strong> (24 agents)</summary>
+
+echo · seo-writer · newsletter · cold-outreach · competitor-watch · reddit-scout · influencer-finder · brand-monitor · ab-test-analyzer · email-sequence · content-repurposer · book-writer · news-curator · ugc-video · multi-account-social · multimedia-content-pipeline · tiktok-video-creator · instagram-reels-creator · youtube-shorts-creator · telemarketer · localization · linkedin-content · x-twitter-growth · youtube-seo
+
+</details>
+
+<details>
+<summary><strong>creative</strong> (13 agents)</summary>
+
+brand-designer · copywriter · podcast-producer · video-scripter · thumbnail-designer · ux-researcher · ad-copywriter · storyboard-writer · audio-producer · proofreader · video-ad-creator · short-form-video · music-producer
+
+</details>
+
+<details>
+<summary><strong>social</strong> (2 agents)</summary>
+
+social-media · tiktok-repurposer
+
+</details>
+
+### BizOps
+
+Business Operations & Finance — running operations without the overhead.
+
+| Department | Agents | Explore |
+|------------|--------|---------|
+| sales | 14 | [Business](#business) |
+| finance | 10 | [Finance](#finance) |
+| ecommerce | 7 | [E-Commerce](#e-commerce) |
+| customer-success | 2 | [Customer Success](#customer-success) |
+| compliance | 4 | [Compliance](#compliance) |
+
+<details>
+<summary><strong>sales</strong> (14 agents)</summary>
+
+customer-support · sales-assistant · meeting-scheduler · personal-crm · radar · churn-predictor · invoice-tracker · competitor-pricing · whatsapp-business · sdr-outbound · deal-forecaster · objection-handler · lead-gen · erp-admin
+
+</details>
+
+<details>
+<summary><strong>finance</strong> (10 agents)</summary>
+
+expense-tracker · invoice-manager · revenue-analyst · tax-preparer · trading-bot · fraud-detector · financial-forecaster · portfolio-rebalancer · accounts-payable · copy-trader
+
+</details>
+
+<details>
+<summary><strong>ecommerce</strong> (7 agents)</summary>
+
+abandoned-cart · inventory-tracker · pricing-optimizer · product-lister · review-responder · dropshipping-researcher · price-monitor
+
+</details>
+
+<details>
+<summary><strong>customer-success</strong> (2 agents)</summary>
+
+nps-followup · onboarding-guide
+
+</details>
+
+<details>
+<summary><strong>compliance</strong> (4 agents)</summary>
+
+gdpr-auditor · soc2-preparer · ai-policy-writer · risk-assessor
+
+</details>
+
+### PeopleFirst
+
+HR, Education, Healthcare, Personal, Productivity — taking care of people.
+
+| Department | Agents | Explore |
+|------------|--------|---------|
+| hr | 8 | [HR](#hr) |
+| education | 8 | [Education](#education) |
+| healthcare | 7 | [Healthcare](#healthcare) |
+| personal | 7 | [Personal](#personal) |
+| productivity | 9 | [Productivity](#productivity) |
+
+<details>
+<summary><strong>hr</strong> (8 agents)</summary>
+
+recruiter · onboarding · performance-reviewer · resume-screener · exit-interview · benefits-advisor · compensation-benchmarker · resume-optimizer
+
+</details>
+
+<details>
+<summary><strong>education</strong> (8 agents)</summary>
+
+tutor · quiz-maker · research-assistant · study-planner · language-tutor · curriculum-designer · essay-grader · flashcard-generator
+
+</details>
+
+<details>
+<summary><strong>healthcare</strong> (7 agents)</summary>
+
+meal-planner · wellness-coach · workout-tracker · symptom-triage · clinical-notes · medication-checker · patient-intake
+
+</details>
+
+<details>
+<summary><strong>personal</strong> (7 agents)</summary>
+
+daily-planner · family-coordinator · fitness-coach · home-automation · reading-digest · travel-planner · journal-prompter
+
+</details>
+
+<details>
+<summary><strong>productivity</strong> (9 agents)</summary>
+
+orion · daily-standup · focus-timer · habit-tracker · inbox-zero · meeting-notes · metrics · meeting-transcriber · notion-organizer
+
+</details>
+
+### IndustryPro
+
+Real Estate, Legal, Supply Chain & SaaS — industry-specific expertise.
+
+| Department | Agents | Explore |
+|------------|--------|---------|
+| real-estate | 5 | [Real Estate](#real-estate) |
+| legal | 6 | [Legal](#legal) |
+| supply-chain | 3 | [Supply Chain](#supply-chain) |
+| saas | 6 | [SaaS](#saas) |
+
+<details>
+<summary><strong>real-estate</strong> (5 agents)</summary>
+
+lead-qualifier · listing-scout · market-analyzer · property-video · commercial-re
+
+</details>
+
+<details>
+<summary><strong>legal</strong> (6 agents)</summary>
+
+contract-reviewer · compliance-checker · policy-writer · patent-analyzer · legal-brief-writer · nda-generator
+
+</details>
+
+<details>
+<summary><strong>supply-chain</strong> (3 agents)</summary>
+
+route-optimizer · inventory-forecaster · vendor-evaluator
+
+</details>
+
+<details>
+<summary><strong>saas</strong> (6 agents)</summary>
+
+churn-prevention · feature-request · onboarding-flow · release-notes · usage-analytics · product-scrum
+
+</details>
+
+### AutoWorks
+
+Automation & Freelance — agents that work while you sleep.
+
+| Department | Agents | Explore |
+|------------|--------|---------|
+| automation | 6 | [Automation](#automation) |
+| freelance | 4 | [Freelance](#freelance) |
+| voice | 3 | [Voice](#voice) |
+| moltbook | 3 | [Moltbook](#-moltbook-new) |
+
+<details>
+<summary><strong>automation</strong> (6 agents)</summary>
+
+negotiation-agent · job-applicant · morning-briefing · flight-scraper · overnight-coder · discord-business
+
+</details>
+
+<details>
+<summary><strong>freelance</strong> (4 agents)</summary>
+
+client-manager · proposal-writer · time-tracker · upwork-proposal
+
+</details>
+
+<details>
+<summary><strong>voice</strong> (3 agents)</summary>
+
+phone-receptionist · voicemail-transcriber · interview-bot
+
+</details>
+
+<details>
+<summary><strong>moltbook</strong> (3 agents)</summary>
+
+community-manager · scout · growth-agent
+
+</details>
 
 ---
 
-## Use Cases
+## All Agents by Category
 
-**132 verified real-world use cases** — what people are actually building with OpenClaw agents.
+> Each agent is tagged with its company (TechCorp, MarketGrow, BizOps, PeopleFirst, IndustryPro, AutoWorks) in [`agents.json`](agents.json).
 
-From developer workflows and DevOps automation to smart home control, crypto trading, robotics, and agents that modify their own code.
+## All Agents by Category
 
-**[Browse all 132 use cases →](USE-CASES.md)**
-
-Top categories: Personal Productivity (14) · Business Operations (11) · Developer Workflows (10) · Content Creation (10) · Ecosystem Tools (10)
-
----
+> Each agent is tagged with its company (TechCorp, MarketGrow, BizOps, PeopleFirst, IndustryPro, AutoWorks) in [`agents.json`](agents.json).
 
 ## Quickstart
 
